@@ -1,7 +1,4 @@
-#red{
-    color: red;
 
-}
 #yellow{
     color: orange;
 }
@@ -10,4 +7,7 @@
 }
 #blue{
     color: blue;
+}
+ul li a{
+    color: red;
 }
